@@ -2,4 +2,4 @@
 
 Arduino Circuit Design and implementation available on
 
-https://www.tinkercad.com/embed/jkN9XT2fGc9?editbtn=1
+https://www.tinkercad.com/things/jkN9XT2fGc9-gesture-recognition/editel?sharecode=UeDGqU75SbZEge67reZq7NDfJb4oYKQ0gtz5gXHJUbY
